@@ -78,7 +78,7 @@ export default function Chat() {
       <div className="msg-info">
         <div className="msg-info-name">Reciver</div>
       </div>
-      <div className="msg-text">You can change your name in JS section!</div>
+      <div className="msg-text">msg here</div>
     </div>
   </div> */}
   <form  onSubmit={handleTr} className="msger-inputarea">
